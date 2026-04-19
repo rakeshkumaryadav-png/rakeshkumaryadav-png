@@ -25,3 +25,6 @@
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumaryadav-png)
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rakeshkumaryadav-png&show_icons=true)
